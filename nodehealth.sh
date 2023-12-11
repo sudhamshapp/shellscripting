@@ -9,3 +9,4 @@ nproc
 ps -ef | grep amazon | awk -F " " '{print $2}'
 
 kill -9 <PID> #kill the process with the given PID
+#sudhamsh added this commented line for genuinity
